@@ -12,7 +12,7 @@ class otraClase : AppCompatActivity() {
 
         val textoResultado= findViewById<TextView>(R.id.resultado)
         val nombre= intent.getStringExtra("nombre")
-        textoResultado.text="Hola, "+nombre
+        textoResultado.text="Hola, "+nombre+"!"
 
 
     }
