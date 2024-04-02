@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intentos</string>
+    <string name="boton">Enviar</string>
+    <string name="textoInicio">Bienvenido, escribe tu nombre:</string>
+</resources>
